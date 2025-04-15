@@ -5,7 +5,7 @@ Meshtastic intended LoRa Node - Ben Labs Node 30.5dBm
 
 Prototype board
 
-## BL-N305A
+## BL-N305B
 
 Production ready board
 
