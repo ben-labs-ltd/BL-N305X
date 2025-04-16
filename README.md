@@ -5,8 +5,9 @@ Meshtastic intended LoRa Node - Ben Labs Node 30.5dBm
 
 Prototype board
 
-!(Unpopulated PCB)[./img/BL-N305A Render.png]
-!(Render)[./img/BL-N305A PCB.png]
+![Unpopulated PCB](https://raw.githubusercontent.com/ben-labs-ltd/BL-N305X/refs/heads/main/img/BL-N305A%20PCB.png)
+
+![Render](https://raw.githubusercontent.com/ben-labs-ltd/BL-N305X/refs/heads/main/img/BL-N305A%20Render.png)
 
 ## BL-N305B
 
